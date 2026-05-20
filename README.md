@@ -1,4 +1,4 @@
-# 🫀 Predicción de Riesgo de Ataque Cardíaco
+# Predicción de Riesgo de Ataque Cardíaco
 
 ## Objetivo
 Explorar qué variables clínicas y demográficas se asocian con mayor riesgo de ataque cardíaco, y construir modelos de clasificación que ayuden a identificar pacientes de alto riesgo.
